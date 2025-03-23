@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@server/*": ["server/src/*"]
+    },
+    "esModuleInterop": true
+  },
+  "include": ["server"]
+}
